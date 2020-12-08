@@ -1,1 +1,7 @@
-name: foodie
+info:
+  profile: prod
+  
+name: Paul
+words: 'God bless you'
+
+food: '{cipher}50bb77c13406a50a1f5784c5b78024ced938b5817411872f1b75f2c288b609e1'
