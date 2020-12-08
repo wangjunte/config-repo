@@ -1,0 +1,11 @@
+# 数据库连接串 & 密码
+mariadb:
+  url: 'jdbc:mysql://118.31.6.137:3603/wjt_foodie?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
+  password: '{cipher}ac75157198f249b6a1760dcc579a1eb184c25b8571d5e9ff78ef6a3291e080b5'
+
+# 功能开关  开启/关闭注册功能
+userservice:
+  registration:
+    disabled: true
+
+# actuator
